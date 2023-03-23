@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    height: 100vh;
+    background-image: url(img/fond.png);
+}
+header{
+    width: 59%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #27032d;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+header img{
+    width: 25%;
+    margin-left: 4%;
+}
+header nav{
+    display: flex;
+    font-family: 'Luckiest Guy', cursive;
+    margin-left: 20%;
+}
+header ul{
+    list-style: none;
+    display: flex;
+    gap: 80px;
+    font-size: 1.5em;
+}
+main{
+    background-color: white;
+}
