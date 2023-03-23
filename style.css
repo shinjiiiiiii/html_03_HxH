@@ -33,4 +33,58 @@ header ul{
 }
 main{
     background-color: white;
+    width: 59%;
+    margin-left: auto;
+    margin-right: auto;
+}
+main h2{
+    font-family: 'Luckiest Guy', cursive;
+    color: #27032d;
+    text-transform: uppercase;
+    padding-top: 40px;
+}
+main img{
+    width: 20%;
+    margin-top: 20px;
+    padding-right: 9px;
+    float: left;
+}
+main p{
+    padding-top: 22px;
+    margin-right: 8%;
+    color: #27032d;
+    font-size: 1.3em;
+}
+section{
+    margin-left: 4%;
+}
+button{
+    border: none;
+    background-color: #27032d;
+    color: white;
+    padding: 8px;
+    font-size: 1.1em;
+    margin-left: 85%;
+}
+.btn{
+    margin-bottom: 20px;
+}
+ul{
+    margin-top: 20px;
+    margin-left: 5%;
+    color: #27032d;
+}
+footer{
+    height: 70px;
+}
+footer img{
+    margin-top: 50px;
+    margin-left: 48.5%;
+    width: 4%;
+
+}
+footer a{
+    color: white;
+    padding-bottom: 40px;
+    margin-left: 45.5%;
 }
